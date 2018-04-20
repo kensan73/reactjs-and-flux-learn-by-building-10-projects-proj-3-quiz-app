@@ -1,0 +1,25 @@
+{
+  "name": "reactjs-and-flux-learn-by-building-10-projects-proj-3-quiz-app",
+  "engine": {
+    "node": "6.9.0"
+  },
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack-server": "./node_modules/.bin/webpack-dev-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^1.12.*",
+    "webpack-dev-server": "^1.12.*",
+    "babel-core": "5.8.*",
+    "babel-loader": "5.3.*"
+  },
+  "dependencies": {
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7"
+  }
+}
